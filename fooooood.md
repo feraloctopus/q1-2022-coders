@@ -1,5 +1,0 @@
-
-
-food
-more food
-spagat
